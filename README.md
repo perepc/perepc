@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @perepc
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Go and AWS
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👀 I’m interested in Cloud Computing and AI
+- 🌱 I’m currently learning GenAI, using Langchain mostly
+- 💞️ I’m looking to collaborate on something related to GenAI
 - 📫 How to reach me: perepc@gmail.com
 
 <!---
